@@ -1,0 +1,15 @@
+.aha {
+    font-size: 2em;
+    color: gray;
+    position: relative;
+    bottom: 40px;
+}
+
+.color {
+    background-color: rgb(185, 185, 185);
+    
+}
+
+.no {
+    font-size: 1.5em;
+}
